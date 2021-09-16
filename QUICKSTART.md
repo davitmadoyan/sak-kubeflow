@@ -241,7 +241,6 @@ That's it! Now you have a pipeline executing in Kubeflow.
 
 Any questions? Ask us on Slack: 
 
-
 [![Join SAKK on Slack](https://img.shields.io/badge/%20-Join%20us%20on%20Slack-blue?style=for-the-badge&logo=slack&labelColor=5c5c5c)]( https://sak-kubeflow.slack.com)
 
 <a href="#top">Back to top</a>
